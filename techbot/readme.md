@@ -5,7 +5,7 @@ A chatbot that gets you tech blogs, news, Projects, modules etc.,
 ## Description
 
 Techbot uses [Api.ai](http://api.ai) for natural language understanding.
-It used python nltk wordnet corpous to get meaning synonym and antonym of words
+It uses its own DB, meetup and shine.com APIs to get job and event details
 
 ### Setup
 
