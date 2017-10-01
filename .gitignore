@@ -1,0 +1,8 @@
+scrappeddata.zip
+scappeddata
+*.pyc
+__pycache__
+total_word_feature_extractor.dat
+migrations
+logs
+v1

@@ -1,0 +1,471 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "who are you?",
+        "intent": "intro",
+        "entities": []
+      },
+      {
+        "text": "what do you do?",
+        "intent": "intro",
+        "entities": []
+      },
+      {
+        "text": "what can you do for me?",
+        "intent": "intro",
+        "entities": []
+      },
+      {
+        "text": "hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "yep",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "yeah",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "goodbye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "good bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "stop",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "end",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "indeed",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "that's right",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "ok",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "great",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "What are some of the popular blogs for Python?",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 29,
+            "end": 34,
+            "value": "blogs",
+            "entity": "category"
+          },
+          {
+            "start": 39,
+            "end": 45,
+            "value": "Python",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "Name some popular python blogs",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 18,
+            "end": 24,
+            "value": "python",
+            "entity": "technology"
+          },
+          {
+            "start": 25,
+            "end": 30,
+            "value": "blogs",
+            "entity": "category"
+          }
+        ]
+      },
+      {
+        "text": "Name some popular java blogs",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "java",
+            "entity": "technology"
+          },
+          {
+            "start": 23,
+            "end": 28,
+            "value": "blogs",
+            "entity": "category"
+          }
+        ]
+      },
+      {
+        "text": "Name some Android blogs",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 10,
+            "end": 17,
+            "value": "Android",
+            "entity": "technology"
+          },
+          {
+            "start": 18,
+            "end": 23,
+            "value": "blogs",
+            "entity": "category"
+          }
+        ]
+      },
+      {
+        "text": "what are some Android blogs",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 14,
+            "end": 21,
+            "value": "Android",
+            "entity": "technology"
+          },
+          {
+            "start": 22,
+            "end": 27,
+            "value": "blogs",
+            "entity": "category"
+          }
+        ]
+      },
+      {
+        "text": "give me top articles about python",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 27,
+            "end": 33,
+            "value": "python",
+            "entity": "category"
+          },
+          {
+            "start": 12,
+            "end": 20,
+            "value": "articles",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "Which are some of the most used modules in Python?",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 32,
+            "end": 39,
+            "value": "modules",
+            "entity": "category"
+          },
+          {
+            "start": 43,
+            "end": 49,
+            "value": "Python",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "Name a few popular Python applications?",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 26,
+            "end": 38,
+            "value": "applications",
+            "entity": "category"
+          },
+          {
+            "start": 19,
+            "end": 25,
+            "value": "Python",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "Name some of the popular applications built in Python?",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 25,
+            "end": 37,
+            "value": "applications",
+            "entity": "category"
+          },
+          {
+            "start": 47,
+            "end": 53,
+            "value": "Python",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "Give a list of popular Github projects in Python?",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 23,
+            "end": 38,
+            "value": "Github projects",
+            "entity": "category"
+          },
+          {
+            "start": 42,
+            "end": 48,
+            "value": "Python",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "Why is Python becoming so popular?",
+        "intent": "generic_search",
+        "entities": [
+          {
+            "start": 7,
+            "end": 13,
+            "value": "Python",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "How does Python rank with other languages? In the past? Now?",
+        "intent": "generic_search",
+        "entities": [
+          {
+            "start": 9,
+            "end": 15,
+            "value": "Python",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "How is Python being used in many companies?",
+        "intent": "generic_search",
+        "entities": [
+          {
+            "start": 7,
+            "end": 13,
+            "value": "Python",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "What are some of the famous blogs for Java?",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 28,
+            "end": 33,
+            "value": "blogs",
+            "entity": "category"
+          },
+          {
+            "start": 38,
+            "end": 42,
+            "value": "Java",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "some famous java blogs",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "java",
+            "entity": "technology"
+          },
+          {
+            "start": 17,
+            "end": 22,
+            "value": "blogs",
+            "entity": "category"
+          }
+        ]
+      },
+      {
+        "text": "what are famous machine learning projects",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 16,
+            "end": 32,
+            "value": "machine learning",
+            "entity": "technology"
+          },
+          {
+            "start": 33,
+            "end": 41,
+            "value": "projects",
+            "entity": "category"
+          }
+        ]
+      },
+      {
+        "text": "What are some of the famous articles for Java?",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 41,
+            "end": 45,
+            "value": "Java",
+            "entity": "technology"
+          },
+          {
+            "start": 28,
+            "end": 36,
+            "value": "articles",
+            "entity": "category"
+          }
+        ]
+      },
+      {
+        "text": "tell me some of the famous blogs for Java?",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 27,
+            "end": 32,
+            "value": "blogs",
+            "entity": "category"
+          },
+          {
+            "start": 37,
+            "end": 41,
+            "value": "Java",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": " list of popular projects in Java?",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "projects",
+            "entity": "category"
+          },
+          {
+            "start": 29,
+            "end": 33,
+            "value": "Java",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "What are some of the famous blogs for Java?",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 28,
+            "end": 33,
+            "value": "blogs",
+            "entity": "category"
+          },
+          {
+            "start": 38,
+            "end": 42,
+            "value": "Java",
+            "entity": "technology"
+          }
+        ]
+      },
+      {
+        "text": "What are some of the famous blogs for Java?",
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 28,
+            "end": 33,
+            "value": "blogs",
+            "entity": "category"
+          },
+          {
+            "start": 38,
+            "end": 42,
+            "value": "Java",
+            "entity": "technology"
+          }
+        ]
+      }
+    ]
+  }
+}
