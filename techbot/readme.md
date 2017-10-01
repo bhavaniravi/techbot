@@ -11,7 +11,7 @@ It uses its own DB, meetup and shine.com APIs to get job and event details
 
 This application is built using python3.
 
-To install python3 follow the instruction on [a link](http://www.python.org)
+To install python3 follow the instruction on [python.org website](http://www.python.org)
 
 If not you can create a virtualenv with python2 and use it
 
