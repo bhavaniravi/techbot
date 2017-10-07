@@ -16,3 +16,32 @@ Hi, I can give you the following information
 3.Give you latest events in your city
 okay! Give me a few python events happening in hyderabad
 We found 5 links that match your query</br><a href="https://www.meetup.com/Cloud-IoT-Data-Science-Open-source-enthusiasts/events/243135853/" target="_blank">Python for beginners - Part 1</a></br><a href="https://www.meetup.com/iot-electronics-hyderabad/events/243773037/" target="_blank">IoT Systems Design Program ( Advanced Concepts)</a></br><a href="https://www.meetup.com/Hyderabad-Python-Meetup-Group/events/242715508/" target="_blank">Pyconf Hyderabad 2017</a></br><a href="https://www.meetup.com/iot-electronics-hyderabad/events/243542502/" target="_blank">Foundation Program: IoT Basics, Architecture & Applications</a></br><a href="https://www.meetup.com/Hyderabad-Algorithmic-Trading/events/243950249/" target="_blank">Webinar: Three-Dimensional Time - Working with Alternative Data</a></br>
+hi
+What's up!
+nothings up
+Sorry, I'm not trained to answer that question.
+okay
+Sorry, I'm not trained to answer that question.
+what can you do
+Hi, I can give you the following information 
+1.Give you blogs
+2.Give you latest job posting
+3.Give you latest events in your city
+So lets get some blogs
+We found five blogs that suit your query</br><a href="http://waytopython.pythonblogs.com/" target="_blank">waytopython</a></br><a href="http://thepythonguru.com/blog/" target="_blank">The Python Guru</a></br><a href="http://python-for-analysts.pythonblogs.com/" target="_blank">python-for-analysts</a></br><a href="https://planet.scipy.org/" target="_blank">Planet SciPy</a></br><a href="http://pythonabuse.pythonblogs.com/295_pythonabuse" target="_blank">pythonabuse</a></br>
+how about meetups
+We found 5 links that match your query</br><a href="https://www.meetup.com/HSR-Toastmasters-Club/events/243822144/" target="_blank">Weekly HSR Toastmasters Club meeting</a></br><a href="https://www.meetup.com/SMATTT-TALKS/events/242823470/" target="_blank">SMATTT TALKS</a></br><a href="https://www.meetup.com/Byte-Academy-Bangalore/events/243943194/" target="_blank">Workshop - Get 15 days trading data of BATS in < 24 hours</a></br><a href="https://www.meetup.com/Bookworms-of-Bangalore-BOB/events/243647088/" target="_blank">Meetup 11 - The Book Thief by Markus Zusak</a></br><a href="https://www.meetup.com/Bangalore-Badminton-and-Fitness-Meetup/events/243905050/" target="_blank">Do u want to be fit through Badminton and be a better player?</a></br>
+meetups in Hyderabad
+We found 5 links that match your query</br><a href="https://www.meetup.com/Twin-Cities-Photography-Club/events/243555143/" target="_blank">An Evening at Paigah Tombs</a></br><a href="https://www.meetup.com/hyscala/events/243805956/" target="_blank">Monthly Community Meetup</a></br><a href="https://www.meetup.com/Twin-Cities-Photography-Club/events/242722811/" target="_blank">Basics of Post Processing</a></br><a href="https://www.meetup.com/Hyderabad-Dog-Meet-Up/events/243841638/" target="_blank">Dogs Meet Up Hyderabad</a></br><a href="https://www.meetup.com/HyderabadBicyclingClub/events/243841680/" target="_blank">Morning Rides around Hussain Sagar Lake</a></br>
+top 10 python jobs
+We found 5 links that match your query</br><a href="https://www.shine.com/jobs/python-automation-test-lead/nexii-it-labs-pvt-ltd/8252690/" target="_blank">Python Automation Test Lead</a></br><a href="https://www.shine.com/jobs/python-developer/externetworks/8260016/" target="_blank">Python Developer</a></br><a href="https://www.shine.com/jobs/software-engineer/near/5806773/" target="_blank">Software Engineer</a></br><a href="https://www.shine.com/jobs/java-python/starnel-consulting-and-engineering-private-limited-hiring-for-starnel-consulting-and-engineering-private-limited/8220627/" target="_blank">Java Python</a></br><a href="https://www.shine.com/jobs/python-programmer-for-web/career-glitzz/8189411/" target="_blank">Python programmer (for Web)</a></br>
+job
+Kindly add a job parameter
+java
+Sorry, I'm not trained to answer that question.
+jobs
+Kindly add a job parameter
+python
+Sorry, I'm not trained to answer that question.
+jobs python
+Kindly add a job parameter

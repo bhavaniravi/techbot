@@ -1,0 +1,6 @@
+{
+ "argv": [ "/home/Bhavani/virtualenv/bots/bin/python", "-m", "ipykernel",
+          "-f", "{connection_file}"],
+ "display_name": "k_means",
+ "language": "python"
+}
