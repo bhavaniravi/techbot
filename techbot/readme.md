@@ -31,7 +31,7 @@ For your bot to understand natural language you need to train it.
 1. Create a account in [Api.ai](http://api.ai)
 2. Create a new agent
 3. Go to settings > import & export 
-4. Import training data `training.zip` file
+4. Import training data `techbot.zip` file
 5. Once you import it you have your agent trained to get you meanings and opposites
 6. To train it furthuer create new intents, entities etx.,
 7. For your training to take effect change `CLIENT_ACCESS_TOKEN` under `apiai_toolkit.py`
