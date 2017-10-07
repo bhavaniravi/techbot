@@ -1,0 +1,5 @@
+nltk
+geopy
+bs4
+flask
+json

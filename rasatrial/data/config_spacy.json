@@ -1,6 +1,0 @@
-{
-  "pipeline": "spacy_sklearn",
-  "path" : "models/",
-  "data" : "data/bot-nlu-data.json",
-  "num_threads":1
-}
