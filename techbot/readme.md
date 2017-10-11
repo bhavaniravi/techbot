@@ -13,10 +13,10 @@ This application is built using python3.
 
 To install python3 follow the instruction on [python.org website](http://www.python.org)
 
-If not you can create a virtualenv with python2 and use it
+If not you can create a virtualenv with python3 and use it
 
 1.  Install all required packages  
-    `pip install -r requirements.txt`
+    `pip install -r requirement.txt`
 
 2. To run the application run  
     `python app.py`
