@@ -17,8 +17,6 @@ This bot has 2 version
       `import nltk`  
       `nltk.download()`
    3. A new window will open. Select the `English corpora` and download it.
-   
-#### [Code](https://github.com/bhavaniravi/techbot)
 
 #### [Slides](https://docs.google.com/presentation/d/1FQ--Tn-Px6I3ygsgPtsWErs1-EFux7DqAyijCgLzu3U/edit?usp=sharing)
 
