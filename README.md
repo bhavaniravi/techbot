@@ -7,16 +7,9 @@ This bot has 2 version
 
 ## Installation Instrtuctions
 
-1. In your cmd or terminal run  
-    `pip install -r requirements.txt`
-2. Make sure all the packages are installed without any errors
-3. To **Download nltk data**
-   1. Open python shell  
-     `python`
-   2. In the shell type the following lines  
-      `import nltk`  
-      `nltk.download()`
-   3. A new window will open. Select the `English corpora` and download it.
+1. Install python3 
+2. Clone this project 
+3. Follow installation instruction in `techbot` and `smbot`
 
 #### [Slides](https://docs.google.com/presentation/d/1FQ--Tn-Px6I3ygsgPtsWErs1-EFux7DqAyijCgLzu3U/edit?usp=sharing)
 
