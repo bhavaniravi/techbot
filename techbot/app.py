@@ -42,4 +42,4 @@ def chat():
 
 app.config["DEBUG"] = True
 if __name__ == "__main__":
-    app.run(port=8000)
+    app.run(port=5000)

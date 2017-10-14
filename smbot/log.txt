@@ -45,3 +45,11 @@ python
 Sorry, I'm not trained to answer that question.
 jobs python
 Kindly add a job parameter
+hi
+Hey there, how may I help you today
+show me blogs
+We found five blogs that suit your query</br><a href="https://planet.scipy.org/" target="_blank">Planet SciPy</a></br><a href="http://jchrbe.pythonblogs.com/247_jchrbe" target="_blank">jchrbe</a></br><a href="https://blog.jetbrains.com/pycharm/" target="_blank">Jetbrains Python Blog</a></br><a href="http://pycon.blogspot.com/" target="_blank">The pycon blog</a></br><a href="https://developers.redhat.com/blog/tag/python/" target="_blank">Python red hat developer</a></br>
+give me some python events
+We found 5 links that match your query</br><a href="https://www.meetup.com/Digital-Marketing-Growth-Hacking-Artificial-Intelligence/events/243516199/" target="_blank">Resume Building Secrets: CVs, Applications | Ace interviews. #MarketingFestival</a></br><a href="https://www.meetup.com/VFC-Volunteer-For-a-Cause/events/243908936/" target="_blank">RTI Diwas</a></br><a href="https://www.meetup.com/Internet-of-Things-Bangalore/events/243975375/" target="_blank">Free Webinar on IoT Platform ThingWork & IoT Analytics </a></br><a href="https://www.meetup.com/Bangalore-Makespace-and-Open-Source-Creativity/events/243880019/" target="_blank">Build Your Own GPS/GSM Tracking Device! (IoT and Smart Cities Workshop)</a></br><a href="https://www.meetup.com/Toastmasters-Indiranagar-Pride/events/243944138/" target="_blank">Meeting# 224 : We are family (Nexus)</a></br>
+I am looking for some python jobs
+We found 5 links that match your query</br><a href="https://www.shine.com/jobs/python-developer/happiest-minds-technologies-pvtltd/8218262/" target="_blank">Python Developer</a></br><a href="https://www.shine.com/jobs/python-developer-senior-software-engineer-team-leader/indiapropertycom/5805065/" target="_blank">Python Developer - (Senior Software Engineer / Team Leader)</a></br><a href="https://www.shine.com/jobs/python-software-developer/leo-technosoft-pvt-ltd/8245240/" target="_blank">Python -Software Developer</a></br><a href="https://www.shine.com/jobs/data-engineer/calpion-software-technologies-pvt-ltd/8261900/" target="_blank">data engineer</a></br><a href="https://www.shine.com/jobs/python-automation-test-lead/nexii-it-labs-pvt-ltd/8252690/" target="_blank">Python Automation Test Lead</a></br>
