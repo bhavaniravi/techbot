@@ -25,5 +25,3 @@ SQLAlchemy-Utils==0.32.17
 urllib3==1.22
 Werkzeug==0.12.2
 WTForms==2.1
-nltk
-json
